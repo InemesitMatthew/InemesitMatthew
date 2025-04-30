@@ -28,8 +28,8 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 #### 💬 I would love to talk with you on Naruto and anything Flutter related :)
 
 ## 📊 My Stats
-
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&" alt="InemesitMatthew" /></p>
+<!--  -->
+<!-- - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&" alt="InemesitMatthew" /></p> -->
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InemesitMatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
