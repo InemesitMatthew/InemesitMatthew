@@ -29,7 +29,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 ## 📊 My Stats
 
-- [![GitHub Streak]<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayor04&" alt="mayor04" /></p>]
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&" alt="InemesitMatthew" /></p>
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InemesitMatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
