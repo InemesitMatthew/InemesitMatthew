@@ -21,7 +21,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 ## 🔭 Current Projects
 
-- [Telex](link) - Telex is a real-time database monitoring and collaboration platform that helps teams stay organized, track updates, and receive AI-driven insights through channel-based messaging, webhook integrations, and a marketplace for customizable AI agents.
+- Telex - Telex is a real-time database monitoring and collaboration platform that helps teams stay organized, track updates, and receive AI-driven insights through channel-based messaging, webhook integrations, and a marketplace for customizable AI agents.
 
 ## 👯 I'm looking to collaborate on projects involving Flutter.
 
@@ -37,7 +37,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 - Email: inemesit.e.matthew@gmail.com
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
 ---
