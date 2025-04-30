@@ -23,13 +23,13 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 - Telex - Telex is a real-time database monitoring and collaboration platform that helps teams stay organized, track updates, and receive AI-driven insights through channel-based messaging, webhook integrations, and a marketplace for customizable AI agents.
 
-# 👯 I'm looking to collaborate on projects involving Flutter.
+#### 👯 I'm looking to collaborate on projects involving Flutter.
 
-# 💬 I would love to talk with you on Naruto and anything Flutter related :)
+#### 💬 I would love to talk with you on Naruto and anything Flutter related :)
 
 ## 📊 My Stats
 
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&)](https://git.io/streak-stats)
+- [![GitHub Streak]<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayor04&" alt="mayor04" /></p>]
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InemesitMatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
