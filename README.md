@@ -32,9 +32,11 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 <!-- - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&" alt="InemesitMatthew" /></p> -->
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InemesitMatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to Reach Me
+## 📄 My Resume
 
-- Email: inemesit.e.matthew@gmail.com
+You can view or download my full résumé here:
+
+[Download my résumé (PDF)](./SENMIDS%20CV%20V2.pdf)
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
