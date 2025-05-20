@@ -25,7 +25,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 #### 👯 I'm looking to collaborate on projects involving Flutter.
 
-#### 💬 I would love to talk with you on Naruto and anything Flutter related :)
+#### 💬 I would love to talk with you on anything anime, games or Flutter related :)
 
 ## 📊 My Stats
 <!--  -->
