@@ -38,7 +38,8 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 You can view or download my full résumé here:
 
-[My Resume (PDF)](./SENMIDS%20CV%20V2.pdf)
+[My Resume (PDF)](./SENMIDS%20CV%20V2.pdf) (Short Ver.)
+[My Resume (DOC)](https://docs.google.com/document/d/1K1bY49GdXC4TVQ4bdJvXBse0oWrFgSJTNjPEfhCZ3rI/edit?usp=sharing) (Detailed Ver.)
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
