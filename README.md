@@ -2,7 +2,7 @@
 
 ## About Me
 
-Software developer passionate about anime, manga, and creating beautiful apps that meet user expectations every single time. Don't believe me? Well why don't you check out my repositories. Nothing meets your liking? Why don't we fix that, hire me for a gig real quick and we get to gamble on my performance :>
+Software developer passionate about anime, manga, and creating beautiful apps that meet user expectations every single time.
 
 ### :hammer_and_wrench: Languages and Tools :
 
