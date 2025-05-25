@@ -21,6 +21,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 
 ## 🔭 Current Projects
 
+### Hi-Car
 - Hi-Car is Nigeria’s all-electric ride-hailing platform, powered by EVoolv Limited. This PRD covers both the Driver App and the Rider App, available on mobile (iOS and Android) and supported by a website for marketing and . Hi-Car connects eco-conscious riders with electric vehicle (EV) drivers, offering sustainable, affordable, and tech-enabled transportation. These digital apps aim to optimize the rider experience, simplify trip management, and improve driver earnings through intelligent systems and clean mobility integration.
 
 
