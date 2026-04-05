@@ -24,15 +24,7 @@ Software developer passionate about anime, manga, and creating beautiful apps th
 ### Hi-Car
 - Hi-Car is Nigeria’s all-electric ride-hailing platform, powered by EVoolv Limited. Hi-Car connects eco-conscious riders with electric vehicle (EV) drivers, offering sustainable, affordable, and tech-enabled transportation. This app aims to optimize the rider experience, simplify trip management, and improve driver earnings through intelligent systems and clean mobility integration.
 
-
-#### 👯 I'm looking to collaborate on projects involving Flutter.
-
-#### 💬 I would love to talk with you on anything anime, games or Flutter related :)
-
-## 📊 My Stats
-<!--  -->
-<!-- - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InemesitMatthew&" alt="InemesitMatthew" /></p> -->
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InemesitMatthew&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+👯 I'm looking to collaborate on projects involving Flutter.
 
 ## 📄 My Resume
 
